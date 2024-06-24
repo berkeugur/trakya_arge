@@ -2,7 +2,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
-import 'package:trakya_arge/src/features/stock/data/models/create_stock_model.dart';
 import 'package:trakya_arge/src/features/stock/data/models/stock_model.dart';
 import 'package:trakya_arge/src/features/stock/presentation/bloc/stock_bloc.dart';
 import 'package:validatorless/validatorless.dart';

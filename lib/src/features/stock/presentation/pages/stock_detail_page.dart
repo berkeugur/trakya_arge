@@ -3,7 +3,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 import 'package:trakya_arge/src/features/stock/presentation/bloc/stock_bloc.dart';
 import 'package:trakya_arge/src/features/stock/presentation/widgets/stock_detail_widget.dart';
-import 'package:trakya_arge/src/features/stockType/presentation/bloc/stock_type_bloc.dart';
 
 class StockDetailPage extends StatelessWidget {
   final String id;

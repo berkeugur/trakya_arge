@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:trakya_arge/src/features/stock/data/models/stock_model.dart';
-import 'package:trakya_arge/src/features/stockType/data/models/stock_type_model.dart';
 
 class StockDetailWidget extends StatelessWidget {
   final StockModel stock;
