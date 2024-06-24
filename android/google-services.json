@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587791291073",
+    "project_id": "trakya-arge",
+    "storage_bucket": "trakya-arge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587791291073:android:ad8a66544767056070fa40",
+        "android_client_info": {
+          "package_name": "com.trakyaarge.trakya_arge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIa8UKmlOKYvY7MLAqOGxoXcbybSfiR1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
